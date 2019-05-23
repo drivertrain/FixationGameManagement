@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="multiSingleSelect">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="freePaidSelect">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="178" max="-2" attributes="0"/>
+                      <Component id="title" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="stationTag" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="rc" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="v2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="r3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="v1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="r2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="v3" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="s1" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="v4" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="s2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="r1" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                                  <Component id="s4" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="v5" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="s3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="multiBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="singleBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              <Component id="playerValue" min="-2" pref="44" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jSeparator2" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jSeparator1" min="-2" pref="22" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="nameTag" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="nameField" min="-2" pref="163" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="freeBtn" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="paidBtn" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="genreTag" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="fpsBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="horrorBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="aComBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="kidBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rhyBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="advenBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="puzBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="fightBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="shootBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="stratBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="actionBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="escapeBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sportsBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="raceBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="simBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cardBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="artBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="designBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="coopBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="violentBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="goreBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="186" max="-2" attributes="0"/>
+              <Component id="addGameBtn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Component id="title" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="stationTag" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                              <Component id="nameField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="nameTag" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="v1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="r2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="freeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="paidBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="v2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="r3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="genreTag" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="v3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="s1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="fpsBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="simBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="v4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="s2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="horrorBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="raceBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="v5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="s3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="aComBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="sportsBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="r1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="s4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="kidBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="escapeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="rc" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="rhyBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="actionBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="advenBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="stratBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="puzBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="shootBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="fightBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cardBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="artBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="coopBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="designBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="violentBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="goreBtn" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jSeparator2" min="-2" pref="10" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="singleBtn" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="multiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="playerValue" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Component id="jSeparator1" alignment="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="addGameBtn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JCheckBox" name="rhyBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rhythm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="simBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Simulation"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="raceBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Racing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sportsBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sports"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="escapeBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Escape"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="actionBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Action"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="advenBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adventure"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="stratBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Strategy"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="puzBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Puzzle"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="shootBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Shooter"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="fightBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fighting"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="fightBtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cardBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Card"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="artBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Art"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="coopBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Co-op"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="designBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Design"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="violentBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Violent"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="goreBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gore"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="horrorBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Horror"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="aComBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adult Comedy"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="fpsBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="FPS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kidBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+      <Properties>
+        <Property name="orientation" type="int" value="1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator2">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="v1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vive 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="v2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vive 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="v3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vive 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="v4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vive 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="v5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vive 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="r1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rift 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="r2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rift 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="title">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Add a Game"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="r3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rift 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="singleBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Singleplayer"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="s1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sitting 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="multiBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Multiplayer (How many)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="s2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sitting 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="s3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sitting 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="s4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sitting 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="stationTag">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Check Each Station With the Game:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="rc">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Race Chair"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nameField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="nameTag">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Game Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="addGameBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Add Game"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="addGameBtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="playerValue">
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="freeBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Free"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="paidBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Paid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="genreTag">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Genre(s):"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

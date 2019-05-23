@@ -1,0 +1,42 @@
+A-10;false;false;Vive 1,Vive 2,Rift 2,Rift 3;FPS
+A-Tech;false;false;Vive 3,Vive 4,Rift 1;FPS,Horror
+Accounting;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Adult Comedy,Simulation
+Amigo Fishing;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3,Sitting 3;Kid
+Archangel Hellfire;false;true;Vive 2,Vive 3,Vive 4,Vive 5;Action,FPS;4
+Arizona Sunshine;false;true;Vive 1,Vive 3,Vive 5,Rift 1,Rift 2,Rift 3;FPS,Horror;4
+Assetto Corsa;false;true;Sitting 1,Sitting 2,Sitting 3,Sitting 4,Race Chair;Racing,Simulation,Sports;16
+Audio Shield;false;false;Vive 2;Rhythm
+Beat Saber;false;false;Vive 1,Vive 3,Vive 4,Vive 5;Rhythm
+Beat the Blitz;true;false;Vive 1,Vive 3;Sports
+Belko VR;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3,Sitting 1,Sitting 2,Sitting 3,Sitting 4;Escape
+Blasters of the Universe;false;false;Sitting 2;Action
+Brookhaven Experiment;false;false;Vive 3,Rift 2;FPS,Horror
+Budget Cuts;false;false;Vive 5;Action,Adventure,Escape
+Cave Digger;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Kid,Simulation
+Cosmic Trip;false;false;Sitting 2;Strategy
+Darknet;false;false;Sitting 2;Puzzle
+Dead Effect;false;false;Vive 1,Vive 2,Vive 4,Rift 2;FPS
+Dead and Buried;true;false;Rift 2;Action,FPS
+Deadly Hunter;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Action,FPS,Shooter
+Dirt Rally;false;true;Sitting 2,Sitting 3;Racing;2
+Doom VFR;false;false;Vive 5;FPS,Horror
+Dream Golf VR;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Sports
+Drop Dead;false;false;Rift 1;Action,FPS
+Duck Season;false;false;Vive 2;Shooter,Sports
+Egg Time;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Kid
+FPS Tennis;false;false;Rift 1;Sports
+Face Your Fears;true;false;Rift 1;Horror,Simulation
+Fall Out 4;false;false;Vive 1;Adventure,FPS,Shooter
+Fields of Battle;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;FPS,Sports
+Fruit Ninja;false;false;Vive 5,Rift 2;Simulation
+Google Earth;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3,Sitting 1,Sitting 2,Sitting 3,Sitting 4;Simulation
+Gorn;false;false;Rift 2,Rift 3;Action,Fighting
+Guns N Stories;false;false;Vive 1,Vive 2,Vive 3;FPS,Kid
+Home Improvisions;false;false;Sitting 1,Sitting 2,Sitting 3,Sitting 4;Simulation
+Hot Dogs, Horseshoes, and Hand Grenades;false;false;Vive 3;FPS,Shooter
+I Expect You to Die;false;false;Vive 2;Puzzle,Simulation
+Insanity;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3;Escape,Horror
+Job Simulator;false;false;Vive 5,Rift 1,Rift 2;Simulation
+Keep Talking and Nobody Explodes;false;true;Vive 4,Sitting 3;Puzzle;2
+Lucky Nights Texas Hold'Em;true;false;Vive 1,Vive 2,Vive 3,Vive 4,Vive 5,Rift 1,Rift 2,Rift 3,Sitting 1,Sitting 2,Sitting 3,Sitting 4;Card,Simulation
+The Bellows;true;false;Vive 3;Action,Horror
